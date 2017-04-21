@@ -1,0 +1,7 @@
+[Activity]
+name = JAMultiplos
+activity_version = 5
+licence = GPLv3
+bundle_id = org.ceibaljam.JAMultiplos
+icon = activity
+exec = sugar-activity activity.Activity
